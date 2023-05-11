@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,200;1,400&family=Wix+Madefor+Text:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100;1,200;1,400;1,600&family=Wix+Madefor+Text:ital,wght@0,400;1,400;1,500&display=swap');
 
 :root {
 
@@ -12,6 +12,6 @@
     --color-gray-white: #969696;
     --color-gradient-primary: linear-gradient(90deg, rgba(168,4,4,1) 50%, rgba(16,4,31,1) 82%);
     
-    --primary-font: font-family: 'Raleway', sans-serif;
-    --secondary-font: font-family: 'Wix Madefor Text', sans-serif;
+    --primary-font: 'Raleway', sans-serif;
+    --secondary-font: 'Wix Madefor Text', sans-serif;
 }
